@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 O que é Springboot.md",
+                "file": "4.0 Inicio do projeto com o Spring Initializr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 O que é Springboot"
+              "title": "4.0 Inicio do projeto com o Spring Initializr"
             }
           }
         ]
@@ -183,11 +183,13 @@
   "active": "0746a4b099798ff5",
   "lastOpenFiles": [
     "3.0 Arquitetura padrão de uma API criada com Springboot.md",
-    "2.0 O que é Springboot.md",
-    "1.0 Como funciona um backend.md",
-    "media/Pasted image 20260601000329.png",
-    "media",
     "media/estrutura de uma aplicacao.png",
+    "media/Pasted image 20260601000329.png",
+    "4.0 Inicio do projeto com o Spring Initializr.md",
+    "x.0 Maven.md",
+    "1.0 Como funciona um backend.md",
+    "2.0 O que é Springboot.md",
+    "media",
     "Bem-vindo.md"
   ]
 }
