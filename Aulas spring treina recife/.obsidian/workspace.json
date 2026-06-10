@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.0 Inicio do projeto com o Spring Initializr.md",
+                "file": "6.0 A camada model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 Inicio do projeto com o Spring Initializr"
+              "title": "6.0 A camada model"
             }
           }
         ]
@@ -182,10 +182,17 @@
   },
   "active": "0746a4b099798ff5",
   "lastOpenFiles": [
+    "media/{0D1D44F1-3858-470F-8FD8-952AB54F567C}.png",
+    "media/{C52EEF8E-07F8-4241-B4A3-96B0D8544D1A}.png",
+    "media/{62E4C3A7-E165-4F09-9675-041000AB962F}.png",
+    "media/{7B9C25BB-F715-4FC5-84AF-0CDE3172B390}.png",
+    "5.0 Início do projeto de fato.md",
+    "6.0 A camada model.md",
+    "media/{C2049CAD-916E-4B50-8833-1BF04F09A596}.png",
+    "4.0 Inicio do projeto com o Spring Initializr.md",
     "3.0 Arquitetura padrão de uma API criada com Springboot.md",
     "media/estrutura de uma aplicacao.png",
     "media/Pasted image 20260601000329.png",
-    "4.0 Inicio do projeto com o Spring Initializr.md",
     "x.0 Maven.md",
     "1.0 Como funciona um backend.md",
     "2.0 O que é Springboot.md",
