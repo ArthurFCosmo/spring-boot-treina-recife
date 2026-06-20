@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.0 A camada service 1.0.md",
+                "file": "12.0 A camada controller 1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.0 A camada service 1.0"
+              "title": "12.0 A camada controller 1.0"
             }
           }
         ]
@@ -180,19 +180,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ad0729ce8c93aa39",
+  "active": "0746a4b099798ff5",
   "lastOpenFiles": [
-    "media/{A33E83F8-5B33-48D1-B95A-9F3FD136BA84}.png",
-    "9.0 A camada repository 1.0.md",
-    "5.0 Início do projeto de fato.md",
-    "8.0 A camada model 1.0 (Tarefa).md",
+    "11.0 Métodos HTTP.md",
+    "12.0 A camada controller 1.0.md",
     "10.0 A camada service 1.0.md",
-    "7.0 A camada model 1.0 (Projeto).md",
-    "6.0 A camada model 1.0 (Usuario).md",
+    "8.0 A camada model 1.0 (Tarefa).md",
+    "5.0 Início do projeto de fato.md",
     "4.0 Inicio do projeto com o Spring Initializr.md",
     "3.0 Arquitetura padrão de uma API criada com Springboot.md",
     "2.0 O que é Springboot.md",
     "1.0 Como funciona um backend.md",
+    "9.0 A camada repository 1.0.md",
+    "media/{A33E83F8-5B33-48D1-B95A-9F3FD136BA84}.png",
+    "7.0 A camada model 1.0 (Projeto).md",
+    "6.0 A camada model 1.0 (Usuario).md",
     "media/{AC9C1B79-B85C-4625-9816-BCB1C757556C}.png",
     "media/{CC4AB15D-5334-46AD-8353-1FE15E4A1E4F}.png",
     "media/{841C0FE1-6ACB-40EA-9319-CA91E8A4E590}.png",
@@ -202,7 +204,6 @@
     "media/{7B9C25BB-F715-4FC5-84AF-0CDE3172B390}.png",
     "media/{C2049CAD-916E-4B50-8833-1BF04F09A596}.png",
     "media/estrutura de uma aplicacao.png",
-    "media/Pasted image 20260601000329.png",
     "x.0 Maven.md",
     "media",
     "Bem-vindo.md"
