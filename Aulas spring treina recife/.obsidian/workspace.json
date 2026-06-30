@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.0 A camada service 1.0 (Projeto e Tarefa).md",
+                "file": "21.0 A camada service 2.0 (Projeto e Tarefa).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.0 A camada service 1.0 (Projeto e Tarefa)"
+              "title": "21.0 A camada service 2.0 (Projeto e Tarefa)"
             }
           }
         ]
@@ -180,23 +180,32 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ad0729ce8c93aa39",
+  "active": "0746a4b099798ff5",
   "lastOpenFiles": [
-    "12.0 A camada controller 1.0 (Usuario).md",
-    "10.0 A camada service 1.0 (Usuario).md",
+    "20.0 A camada controller 2.0 (Usuario).md",
+    "18.0 A camada service 2.0 (Usuario).md",
+    "22.0 A camada controller 2.0 (Projeto e Tarefa).md",
+    "21.0 A camada service 2.0 (Projeto e Tarefa).md",
+    "19.0 A camada repository 2.0.md",
+    "23.0 Testando a API 2.0 com o Insomnia.md",
+    "17.0 Os DTOs do projeto.md",
+    "16.0 O que são DTOs.md",
+    "15.0 A camada controller 1.0 (Projeto e Tarefa).md",
     "14.0 A camada service 1.0 (Projeto e Tarefa).md",
-    "7.0 A camada model 1.0 (Projeto).md",
-    "8.0 A camada model 1.0 (Tarefa).md",
     "13.0 Testando a nossa API 1.0 com o Insominia.md",
-    "media/{912DB3DB-8616-4AC0-BB3E-470F9F656615}.png",
-    "11.0 Métodos HTTP.md",
     "9.0 A camada repository 1.0.md",
     "6.0 A camada model 1.0 (Usuario).md",
-    "5.0 Início do projeto de fato.md",
     "4.0 Inicio do projeto com o Spring Initializr.md",
-    "3.0 Arquitetura padrão de uma API criada com Springboot.md",
     "2.0 O que é Springboot.md",
     "1.0 Como funciona um backend.md",
+    "12.0 A camada controller 1.0 (Usuario).md",
+    "10.0 A camada service 1.0 (Usuario).md",
+    "7.0 A camada model 1.0 (Projeto).md",
+    "8.0 A camada model 1.0 (Tarefa).md",
+    "media/{912DB3DB-8616-4AC0-BB3E-470F9F656615}.png",
+    "11.0 Métodos HTTP.md",
+    "5.0 Início do projeto de fato.md",
+    "3.0 Arquitetura padrão de uma API criada com Springboot.md",
     "media/{DC69AEF3-31AB-48DC-8075-269347D40D37}.png",
     "media/{1E8EA2A1-FCA2-4258-8E35-D568AB6844AC}.png",
     "media/{38784720-DA43-49AA-92EE-8AD3B7904738}.png",
